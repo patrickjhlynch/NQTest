@@ -245,6 +245,22 @@ a:hover{
 	margin-left: 70px;
 }
 
+.nextButton{
+	border:	none;
+	outline: none;
+	background: #ff9fbc;
+}
+
+.nextButton p{
+	font-size: 2em;
+	font-weight: 600;
+	color: #FFF;
+	background-color: #ff9fbc;
+	padding-left: 20px;
+	padding-right: 20px;
+	position: relative;
+}
+
 ::-webkit-input-placeholder { /* WebKit, Blink, Edge */
     color:    #C8C8C8;
 }
